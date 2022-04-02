@@ -1,6 +1,5 @@
 - 👋 Hi, my name is Damir
-- 👀 I’m working as analytics Engineer. My skills: strong SQL (T-SQL), basic Python (Pandas), Database: MS SQL Server 2019, DWH: Snowflake, ETL: SSIS (Visual Studio),  
--    Data Visualization: MS PowerBI, Version control: git, Github. 
+- 👀 I’m working as analytics Engineer. My skills: strong SQL (T-SQL), basic Python (Pandas), Database: MS SQL Server 2019, DWH: Snowflake, ETL: SSIS (Visual Studio), Data Visualization: MS PowerBI, Version control: git, Github. 
 - 🌱 I’m currently learning Python and Data Pipelines
 
 <!---
